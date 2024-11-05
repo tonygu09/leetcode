@@ -1,7 +1,7 @@
 // Implement a function "sortArray" to sort an array of strings based on their length
 // const arr = ["apple", "banana", "pear", "grape", "orange"];
 
-public class ea1 {
+public class test {
     public static void main(String[] args) {
         String[] arr = new String[]{"apple"};
         sortArray(arr);

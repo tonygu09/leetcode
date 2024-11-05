@@ -3,7 +3,7 @@
 // Ex. array 1: [1, 10, 2, 20, 3, 30, 4, -1]
 // Ex. array 2: [10, 3, -1]
 
-public class ea2 {
+public class test2 {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 10, 2, 20, 3, 30, 4, -1};
         int[] tar = new int[]{10, 3, -1};
